@@ -163,4 +163,4 @@ function onTipClick() {
   let result = tipCalc(bill, pct);
   document.getElementById("outTip").innerHTML = result;
 }
-/*flsgjfa*/
+/*flsgjfa*/ 
